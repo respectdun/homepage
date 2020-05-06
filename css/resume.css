@@ -12,7 +12,13 @@
 
 .fa:hover {
     opacity: 0.7;
+    text-decoration: none;
+    color: #ffffff;
 }
+.fa-wikipedia-w:hover {
+    color: #0c0c0c;
+}
+
 
 .fa-facebook {
     background: #3B5998;
