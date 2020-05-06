@@ -1,0 +1,3 @@
+{
+  "extends": "stylelint-config-standard"
+}npx stylelint "**/*.css"
