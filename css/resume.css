@@ -15,24 +15,24 @@
     text-decoration: none;
     color: #ffffff;
 }
+
 .fa-wikipedia-w:hover {
     color: #0c0c0c;
 }
 
-
 .fa-facebook {
-    background: #3B5998;
+    background: darkblue;
     color: white;
 }
 
 .fa-twitter {
-    background: #55ACEE;
+    background: deepskyblue;
     color: white;
 }
 
 .fa-instagram {
     background: #d6249f;
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d725a0 60%, deeppink 90%);
     color: white;
 }
 
@@ -86,4 +86,3 @@
         width: 7.5em;
     }
 }
-
